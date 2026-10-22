@@ -19,6 +19,6 @@ Para considerar el proyecto exitoso en su fase final, se establecen los siguient
 
 ## 3. Gestión de Roles del Equipo
 Para asegurar una correcta organización, las responsabilidades se dividen de la siguiente manera:
-* **Integrante 1** - *Gestión de Proyecto y Diseño (UX/UI):* Encargado del tablero Kanban, diagramas de Gantt y diseño de la interfaz de usuario de la plataforma.
-* **Integrante 2** - *Desarrollo Front-end:* Implementación de las vistas de la página web y conexión con el sistema de catálogo.
-* **Integrante 3** - *Desarrollo Back-end y Base de Datos:* Creación de la lógica del servidor, gestión de usuarios UAB y sistema de reservas.
+* **Mireia** - *Gestión de Proyecto y Diseño (UX/UI):* Encargado del tablero Kanban, diagramas de Gantt y diseño de la interfaz de usuario de la plataforma.
+* **Miriam** - *Desarrollo Front-end:* Implementación de las vistas de la página web y conexión con el sistema de catálogo.
+* **Aina** - *Desarrollo Back-end y Base de Datos:* Creación de la lógica del servidor, gestión de usuarios UAB y sistema de reservas.
